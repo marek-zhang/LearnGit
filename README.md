@@ -1,2 +1,0 @@
-# LearnGit
-Figuring out git
